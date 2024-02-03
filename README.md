@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://github.com/KaatoDev/NotzScoreboard/assets/107152563/0920fce2-fed2-4321-856a-a8454b3737af" alt="" height="320" >
-</div>
+<img src="https://github.com/KaatoDev/NotzStorage/assets/107152563/c1ee9490-47b8-4b7d-856a-024430cc5b1d" alt="" height="320" >
 
 #
 NotzStorage é um plugin completo de `Armazém`, `Farm Virtual`, `Boosters` e "`Bolsa de valores`".
