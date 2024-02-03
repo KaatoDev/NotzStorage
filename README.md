@@ -8,15 +8,16 @@ NotzStorage é um plugin completo de `Armazém`, `Farm Virtual`, `Boosters` e "`
 
 ## Informações
 ### `Armazém`
- - Ele conta com um sistema de armazém de plantação intuitivo que coleta automaticamente as plantações (com permissão: todas, sem permissão: cacto e cana-de-açúcar) e sem deixá-las crescerem, como também replanta ao serem colhidas.
+Ele conta com um sistema de armazém de plantação intuitivo que coleta automaticamente as plantações (com permissão: todas, sem permissão: cacto e cana-de-açúcar) e sem deixá-las crescerem, como também replanta ao serem colhidas.
 ### `Farm Virtual`
- - Intitulado como "Virtual plot", ele simula uma farm completa de cacto como se fosse de uma plot 32x32x255, farmando 3840 por minuto quando cheia e com limite de armazém de 2.8KK. (Será possível aumentar a velocidade/produção e o limite de storage em breve! Como também contará com mais variedades de plantação)
+Intitulado como "Virtual plot", ele simula uma farm completa de cacto como se fosse de uma plot 32x32x255, farmando 3840 por minuto quando cheia e com limite de armazém de 2.8KK. (Será possível aumentar a velocidade/produção e o limite de storage em breve! Como também contará com mais variedades de plantação)
 ### `Boosters`
- - É possível criar Boosters personalizados e, por padrão, setar a sua porcentagem. O tempo é adicionado ao criar um item ativável. (Logo mais será possível setar o Booster diretamente caso seja necessário, como para ganhadores de eventos etc)
+É possível criar Boosters personalizados e, por padrão, setar a sua porcentagem. O tempo é adicionado ao criar um item ativável. (Logo mais será possível setar o Booster diretamente caso seja necessário, como para ganhadores de eventos etc)
 ### `Bolsa de valores`
- - A "Bolsa de Valores" é uma simulação de alta e baixa da própria economia que roda em tordo do plugin, ela altera automáticamente pelo próprio tempo definido cada vez que atualiza.
+A "Bolsa de Valores" é uma simulação de alta e baixa da própria economia que roda em tordo do plugin, ela altera automáticamente pelo próprio tempo definido cada vez que atualiza.
 ### Outros
- - É possível também desabilitar as notificações gerais, tanto de informativo de farm quanto de venda.
+É possível também desabilitar as notificações gerais, tanto de informativo de farm quanto de venda.
+</div>
 
 ## Spoilers
 - ### Armazém
