@@ -1,4 +1,8 @@
-# **NotzStorage**
+<div align="center">
+<img src="https://github.com/KaatoDev/NotzScoreboard/assets/107152563/0920fce2-fed2-4321-856a-a8454b3737af" alt="" height="320" >
+</div>
+
+#
 NotzStorage é um plugin completo de `Armazém`, `Farm Virtual`, `Boosters` e "`Bolsa de valores`".
 
 ###### (Plugin em desenvolvimento)
@@ -49,17 +53,39 @@ NotzStorage é um plugin completo de `Armazém`, `Farm Virtual`, `Boosters` e "`
 
 ## Comandos `Admin`
  ### `/nbooster`
- - `create` - \<nome> \<display> \<%> - Cria um novo Booster.
- - `list` - Lista os Boosters existentes.
- - `remove` \<booster> - Exclui um Booster.
  - `<booster>`
    - `get` \<tempo em segundos> (player) - Pegue ou dê o Booster.
    - `setDisplay` \<novo display> - Altera o display do Booster.
    - `percentage` \<nova %> - Altera a porcentagem do Booster.
+ - `create` - \<nome> \<display> \<%> - Cria um novo Booster.
+ - `list` - Lista os Boosters existentes.
+ - `remove` \<booster> - Exclui um Booster.
 
- ### ``
+ ### `/nvirtualplot`
+  - `backup` - Faz backup da database.
+  - `addvp` \<Player> - Adiciona uma Virtual Plot à um player.
+  - `removevp` \<Player> \<Plot id> - Exclui uma Virtual Plot.
+  - `setcactus` \<Player> \<Id da VP> \<32/64> - Adiciona 32K ou 64K à Virtual Plot de um player.
+  - `setprice` 
+    - `<item>` \<price> - Seta o valor de um item de farm.
+    - `cactusVP` \<price> - Seta o valor do item cacto da Virtual Plot
+  - `updatestock` - Atualiza a bolsa de valores.
 
 ### `Aliases`
+- `/virtualplot`:
+  - `/plotvirtual`, `/vp`
+- `/bolsa`
+  - `/stock`
+- `/booster`
+  - `/boost`, `/boosts`, `/boosters`
+- `/armazem`
+  - `/storage`, `/drop`, `/drops`
+- `/farms`
+  - `/farm`
+- `/nbooster`
+  - `/nb`, `/nboost`, `/nboosts`, `/nboosters`
+- `/nvirtualplot`:
+  - `/nvp`
 
 
  ###### | <> argumento obrigatório. | () argumento opcional. |
