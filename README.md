@@ -17,7 +17,12 @@ Intitulado como "Virtual plot", ele simula uma farm completa de cacto como se fo
 A "Bolsa de Valores" é uma simulação de alta e baixa da própria economia que roda em tordo do plugin, ela altera automáticamente pelo próprio tempo definido cada vez que atualiza.
 ### Outros
 É possível também desabilitar as notificações gerais, tanto de informativo de farm quanto de venda.
+
 </div>
+
+## Dependências
+- PlotSquared
+- Vault
 
 ## Spoilers
 - ### Armazém
