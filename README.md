@@ -58,13 +58,13 @@ A "Bolsa de Valores" é uma simulação de alta e baixa da própria economia que
 
 ## Comandos `Admin`
  ### `/nbooster`
+ - `create` - \<nome> \<display> \<%> - Cria um novo Booster.
+ - `list` - Lista os Boosters existentes.
+ - `remove` \<booster> - Exclui um Booster.
  - `<booster>`
    - `get` \<tempo em segundos> (player) - Pegue ou dê o Booster.
    - `setDisplay` \<novo display> - Altera o display do Booster.
    - `percentage` \<nova %> - Altera a porcentagem do Booster.
- - `create` - \<nome> \<display> \<%> - Cria um novo Booster.
- - `list` - Lista os Boosters existentes.
- - `remove` \<booster> - Exclui um Booster.
 
  ### `/nvirtualplot`
   - `backup` - Faz backup da database.
